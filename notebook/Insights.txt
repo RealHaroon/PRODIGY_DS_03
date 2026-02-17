@@ -1,0 +1,9 @@
+Data Understanding:
+> dataset contains 4521 rows and 17 columns
+> Contains Numeric Columns : 'age', 'balance', 'day', 'duration', 'campaign', 'pdays', 'previous'
+> Contains Object / Categorical Columns : 'job','marital','education','default','housing','loan','contact','month','poutcome','y'
+
+Data Cleaning :
+Found 0 Null Values
+Found 0 Duplicate rows
+but found 'unkown' in job, education and contact and kept them as category
